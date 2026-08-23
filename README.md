@@ -1,1 +1,74 @@
-## Olá eu sou o iran👋
+# Hi 👋, Eu sou o iran ferreira elias
+
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**  
+🇧🇷 Brazil
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou construindo minha base como desenvolvedor web.
+
+Estou focado em fortalecer meus conhecimentos em programação e desenvolvimento web, estudando tecnologias como HTML, CSS, JavaScript e Figma, enquanto aplico o que aprendo em projetos pessoais.
+
+Estou sempre buscando aprender algo novo e me desafiando a experimentar diferentes tecnologias para crescer como profissional. Tenho como objetivo me desenvolver continuamente e buscar entregar projetos de qualidade, sempre pensando na experiência e nas necessidades do usuário.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/IranFerreiraaDev">
+    <img src="https://img.shields.io/badge/GitHub-IranFerreiraaDev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@oreidosites">
+    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.youtube.com/@oreidosites">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que eu faço
+
+-   🏗️ crio landing page
+-   🧩 crio e desenvolvo paginas agradaveis para o usuario
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+### Backend
+
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+
+### DevOps & Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IranFerreiraaDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IranFerreiraaDev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia 
+
+> _"Codigo nao é apenas para resolver erros.  
+> Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
