@@ -1,4 +1,8 @@
-<br clear="both">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="568" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
@@ -35,17 +39,22 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=IranFerreiraaDev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="177" alt="languages graph"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=IranFerreiraaDev.IranFerreiraaDev&"  />
 </div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/snake-output/snake.svg" alt="Snake animation" />
+<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ crio landing pages<br>- 🎨 desenvolvo páginas focadas em uma boa experiência para o usuário<br>- 📱 busco criar interfaces responsivas para diferentes dispositivos<br>- 💻 aplico HTML e CSS em projetos pessoais<br>- 🧠 pratico lógica de programação e resolução de problemas<br>- 🚀 estou aprendendo JavaScript para tornar minhas páginas mais interativas<br>- 📚 estudo e experimento novas tecnologias através de projetos<br><br>🚀 Filosofia <br><br>> Codigo nao é apenas para resolver erros.  <br>> Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."</p>
 
 ###
 
-<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ crio landing pages<br>- 🎨 desenvolvo páginas focadas em uma boa experiência para o usuário<br>- 📱 busco criar interfaces responsivas para diferentes dispositivos<br>- 💻 aplico HTML e CSS em projetos pessoais<br>- 🧠 pratico lógica de programação e resolução de problemas<br>- 🚀 estou aprendendo JavaScript para tornar minhas páginas mais interativas<br>- 📚 estudo e experimento novas tecnologias através de projetos<br><br>🚀 Filosofia <br><br>> _"Codigo nao é apenas para resolver erros.  <br>> Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."</p>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
