@@ -1,7 +1,8 @@
-
 <div align="center">
-  <img width="33%" src="https://imgur.com/gallery/fsdfsd-LeqvYjV#ifRhQaj.gif">
+  <img width="33%" src="https://imgur.com/gallery/fsdfsd-LeqvYjV#ifRhQaj">
 </div>
+
+
 
 # olá👋, Eu sou o iran ferreira elias
 
@@ -66,6 +67,5 @@ Estou sempre buscando aprender algo novo e me desafiando a experimentar diferent
 > Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."_
 
 ---
+ 🤝 Sempre aberto a colaborações, parcerias e ideias legais
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
