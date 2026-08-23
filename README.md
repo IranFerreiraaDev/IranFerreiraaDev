@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="464" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
+  <img data-importer="image" height="568" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
 </div>
 
 ###
@@ -29,33 +29,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=IranFerreiraaDev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/activity-graph-output/activity-graph.svg?bg_color=00000&title_color=FFFFFF&point=FFFFFF&area_color=FFFFFF&line=26FF26&color=FFFFFF&custom_title=Gr%C3%A1fico%20de%20Atividade&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="177" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ crio landing pages<br>- 🎨 desenvolvo páginas focadas em uma boa experiência para o usuário<br>- 📱 busco criar interfaces responsivas para diferentes dispositivos<br>- 💻 aplico HTML e CSS em projetos pessoais<br>- 🧠 pratico lógica de programação e resolução de problemas<br>- 🚀 estou aprendendo JavaScript para tornar minhas páginas mais interativas<br>- 📚 estudo e experimento novas tecnologias através de projetos<br><br>🚀 Filosofia <br><br>> _"Codigo nao é apenas para resolver erros.  <br>> Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."</p>
-
-###
-
-<br clear="both">
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="140" src="https://i.pinimg.com/736x/da/a1/38/daa138e7996c8d78954f46bca95adb0c.jpg"  />
-</div>
 
 ###
