@@ -43,8 +43,7 @@ Estou sempre buscando aprender algo novo e me desafiando a experimentar diferent
 
 ### DevOps & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 ---
 
 ## 📊 GitHub Stats
