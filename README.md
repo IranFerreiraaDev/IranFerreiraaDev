@@ -1,9 +1,3 @@
-
-  <img src="https://imgur.com/gallery/fsdfsd-LeqvYjV#ifRhQaj.gif">
-
-
-
-
 # olá👋, Eu sou o iran ferreira elias
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação**  
