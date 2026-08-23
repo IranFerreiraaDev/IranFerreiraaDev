@@ -15,11 +15,10 @@ Estou sempre buscando aprender algo novo e me desafiando a experimentar diferent
 
 <p align="left">
   <a href="https://github.com/IranFerreiraaDev">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://img.shields.io/badge/GitHub-IranFerreiraaDev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/iran-ferreira-elias-27a108343/">
-    <img src="(https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" />
-  </a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=Linkedin">
 </p>
 
 ---
