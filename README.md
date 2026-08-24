@@ -46,14 +46,14 @@ Construo projetos do conceito à entrega, sempre com atenção à qualidade do c
 
 ###
 
-<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ Desenvolvo landing pages do zero
+<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ Desenvolvo landing pages do zero<br>
 🎨 Crio interfaces pensadas na experiência do usuário
 📱 Construo layouts responsivos para diferentes dispositivos
 💻 Aplico HTML e CSS com foco em código limpo e reutilizável
 🧠 Resolvo problemas com lógica de programação estruturada
 ⚡ Adiciono interatividade às páginas com JavaScript
 📚 Exploro e aplico novas tecnologias em projetos reais</p>
-
+<br>
 ###
 
 🚀 Filosofia
