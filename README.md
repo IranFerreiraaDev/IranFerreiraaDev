@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left"># olá👋, Eu sou o iran<br><br>🚀ADS and Development Student. / Univale<br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
+<p data-importer="text" align="left"># olá👋, Eu sou o iran<br><br>🚀ADS and Development Student. / Pr <br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
 Construo projetos do conceito à entrega, sempre com atenção à qualidade do código e ao valor real que a solução gera para quem a usa. Busco constantemente aprimorar meu domínio técnico e acompanhar as tecnologias que movem o desenvolvimento web.</p>
 
 ###
