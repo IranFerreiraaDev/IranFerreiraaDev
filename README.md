@@ -1,6 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
@@ -9,6 +6,9 @@
 </div>
 
 ###
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 <p data-importer="text" align="left"># olá👋, Eu sou o iran<br><br>🚀ADS and Development Student. / Pr <br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
 Construo projetos do conceito à entrega, sempre com atenção à qualidade do código e ao valor real que a solução gera para quem a usa. Busco constantemente aprimorar meu domínio técnico e acompanhar as tecnologias que movem o desenvolvimento web.</p>
