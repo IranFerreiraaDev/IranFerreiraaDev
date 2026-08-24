@@ -10,7 +10,8 @@
 
 ###
 
-<p data-importer="text" align="left"># olá👋, Eu sou o iran ferreira elias<br><br>🚀ADS and Development Student. / Univale<br>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou construindo minha base como desenvolvedor web.<br>Estou focado em fortalecer meus conhecimentos em programação e desenvolvimento web, estudando tecnologias como HTML, CSS, JavaScript e Figma, enquanto aplico o que aprendo em projetos pessoais.<br>Estou sempre buscando aprender algo novo e me desafiando a experimentar diferentes tecnologias para crescer como profissional. Tenho como objetivo me desenvolver continuamente e buscar entregar projetos de qualidade, sempre pensando na experiência e nas necessidades do usuário.</p>
+<p data-importer="text" align="left">#olá👋, Eu sou o iran <br><br>🚀ADS and Development Student. / PR <br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
+Construo projetos do conceito à entrega, sempre com atenção à qualidade do código e ao valor real que a solução gera para quem a usa. Busco constantemente aprimorar meu domínio técnico e acompanhar as tecnologias que movem o desenvolvimento web.</p>
 
 ###
 
@@ -45,10 +46,19 @@
 
 ###
 
-<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ crio landing pages<br>- 🎨 desenvolvo páginas focadas em uma boa experiência para o usuário<br>- 📱 busco criar interfaces responsivas para diferentes dispositivos<br>- 💻 aplico HTML e CSS em projetos pessoais<br>- 🧠 pratico lógica de programação e resolução de problemas<br>- 🚀 estou aprendendo JavaScript para tornar minhas páginas mais interativas<br>- 📚 estudo e experimento novas tecnologias através de projetos<br><br>🚀 Filosofia <br><br>> Codigo nao é apenas para resolver erros.  <br>> Mas sim, construir soluçoes que resolvem o problema e que sejam duradouras e gerem valor real ."</p>
+<p data-importer="text" align="left">🧠 O que eu faço<br><br>- 🏗️ Desenvolvo landing pages do zero
+🎨 Crio interfaces pensadas na experiência do usuário
+📱 Construo layouts responsivos para diferentes dispositivos
+💻 Aplico HTML e CSS com foco em código limpo e reutilizável
+🧠 Resolvo problemas com lógica de programação estruturada
+⚡ Adiciono interatividade às páginas com JavaScript
+📚 Exploro e aplico novas tecnologias em projetos reais</p>
 
 ###
 
+🚀 Filosofia
+
+Código não serve apenas para corrigir erros, mas para construir soluções duradouras que resolvem problemas reais e geram valor de verdade.
 <br clear="both">
 
 <picture data-importer="pacman">
