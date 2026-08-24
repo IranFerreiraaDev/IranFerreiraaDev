@@ -1,3 +1,6 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
@@ -5,14 +8,24 @@
   <img data-importer="image" height="568" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
 </div>
 
-<br><div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+###
+
+<p data-importer="text" align="left"># olá👋, Eu sou o iran<br><br>🚀ADS and Development Student. / Univale<br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
+Construo projetos do conceito à entrega, sempre com atenção à qualidade do código e ao valor real que a solução gera para quem a usa. Busco constantemente aprimorar meu domínio técnico e acompanhar as tecnologias que movem o desenvolvimento web.</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/IranFerreiraaDev/IranFerreiraaDev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">#olá👋, Eu sou o iran <br><br>🚀ADS and Development Student. / PR <br>Desenvolvedor front-end com foco em criar interfaces responsivas, acessíveis e centradas na experiência do usuário. Trabalho com HTML, CSS e JavaScript para transformar ideias em páginas funcionais, e uso o Figma para planejar interfaces antes de colocá-las no ar.
-Construo projetos do conceito à entrega, sempre com atenção à qualidade do código e ao valor real que a solução gera para quem a usa. Busco constantemente aprimorar meu domínio técnico e acompanhar as tecnologias que movem o desenvolvimento web.</p>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=IranFerreiraaDev.IranFerreiraaDev&"  />
+</div>
 
 ###
 
@@ -41,25 +54,19 @@ Construo projetos do conceito à entrega, sempre com atenção à qualidade do c
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=IranFerreiraaDev.IranFerreiraaDev&"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">🧠 O que eu faço<br><br>- <br>🏗️ Desenvolvo landing pages do zero
+<p data-importer="text" align="left">🧠 O que eu faço
+<br>
+<br>🏗️ Desenvolvo landing pages do zero
 <br>🎨 Crio interfaces pensadas na experiência do usuário
 <br>📱 Construo layouts responsivos para diferentes dispositivos
 <br>💻 Aplico HTML e CSS com foco em código limpo e reutilizável
 <br>🧠 Resolvo problemas com lógica de programação estruturada
 <br>⚡ Adiciono interatividade às páginas com JavaScript
-<br>📚 Exploro e aplico novas tecnologias em projetos reais</p>
+<br>📚 Exploro e aplico novas tecnologias em projetos reais
+</p>
 
 ###
 
-🚀 Filosofia
-
-Código não serve apenas para corrigir erros, mas para construir soluções duradouras que resolvem problemas reais e geram valor de verdade.
 <br clear="both">
 
 <picture data-importer="pacman">
